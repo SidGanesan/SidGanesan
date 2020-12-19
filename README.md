@@ -1,6 +1,6 @@
 # Curriculum Vitae
 
-> An Actuarial Science and Finance graduate turned Developer, exploring the wide world of micro-service architecture, AWS Lambda, and analysis in Python and Clojure. Interested in applying modern software architecture and patterns to front office trading, portfolio management, and investment services in the financial sector.
+> A driven and goals oriented Actuarial Science and Finance graduate turned Software Developer, exploring the wide world of micro-service architecture, AWS Lambda, and analysis in Python and Clojure. Interested in applying modern software architecture and domain driven design to deliver solutions for front office trading, portfolio management, and investment services in the financial services sector.
 
 # Contact information
 
@@ -18,13 +18,13 @@
 
 Jarden Securities Limited. *Jan 2020 - Present.*
 
-In my role I am involved in delivering strategic solutions using micro-service architecture to both external clients and internal business units. Leveraging AWS services such as Lambda, Event Bus, and S3 to deliver solutions for front office trading, portfolio management, and investment services in the financial services sector.
+In my role I am involved in delivering strategic solutions using micro-service architecture for both external clients and internal business units.
 
 ### Wealth Management Intern
 
 Jarden Securities Limited. *Jan 2019 - Jan 2020.*
 
-Involved as part of the Private Wealth Research team, designing and developing tools to assist financial advisers. Successfully developed and deployed five tools presently, implemented using Excel and VBA.
+Involved as part of the Private Wealth Research team, designing and developing tools to assist financial advisers. Successfully developed and deployed tools, implemented using Excel and VBA for both use with clients and internal users.
 
 ### Laborer
 
@@ -56,17 +56,17 @@ Victoria University of Wellington 2016 - 2019. *GPA 6.0*
 
 # Awards
 
-### VUWBIC Stock Valuation Competition
-
-Winner. *Jul 2019*
-
-As part of a team of 4, valued and provided investment recommendation on WHS.NZX. We were assessed on the complexity of our valuation model and the depth of our analysis of the business.
-
 ### National Stock Valuation Competition
 
 Winner. *Sep 2019*
 
 Competed against other New Zealand Universities in building a financial model to value and provided investment recommendation on SPK.NZX.
+
+### VUWBIC Stock Valuation Competition
+
+Winner. *Jul 2019*
+
+As part of a team of 4, valued and provided investment recommendation on WHS.NZX. We were assessed on the complexity of our valuation model and the depth of our analysis of the business.
 
 ### CFA Institute Equity Research Competition
 
