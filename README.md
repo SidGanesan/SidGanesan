@@ -1,6 +1,6 @@
 # Curriculum Vitae
 
-> An Actuarial Science and Finance graduate turned Developer, exploring the wide world of micro-service architecture, AWS Lambda, and analysis using Python, Typescript, and Node.js. Interested in applying modern software architecture and Domain Driven Design to front office trading, portfolio management, and investment services in the financial sector.
+An Actuarial Science and Finance graduate turned Developer, exploring the wide world of micro-service architecture, AWS Lambda, and analysis using Python, Typescript, and Node.js. Interested in applying modern software architecture and Domain Driven Design to front office trading, portfolio management, and investment services in the financial sector.
 
 # Contact information
 
@@ -62,7 +62,7 @@ Competed against other New Zealand University teams in building a financial mode
 
 Winner. *Jul 2019*
 
-As part of a team of 4, valued and provided investment recommendations on WHS.NZX. We were assessed on the complexity of our valuation model and the depth of our analysis of the business.
+As part of a team of 4, valued and provided investment recommendation on WHS.NZX. We were assessed on the complexity of our valuation model and the depth of our analysis of the business.
 
 ### CFA Institute Equity Research Competition
 
