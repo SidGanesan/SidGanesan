@@ -1,14 +1,16 @@
 # Curriculum Vitae
 
-> An Actuarial Science and Finance graduate turned Developer, exploring the wide world of micro-service architecture, AWS Lambda, and analysis in Python and Clojure. Interested in applying modern software architecture and patterns to front office trading, portfolio management, and investment services in the financial sector.
+> An Actuarial Science and Finance graduate turned Developer, exploring the wide world of micro-service architecture, AWS Lambda, and analysis using Python, Typescript, and Node.js. Interested in applying modern software architecture and Domain Driven Design to front office trading, portfolio management, and investment services in the financial sector.
 
 # Contact information
 
+📧 [siddha.ganesan@gmail.com](mailto:siddha.ganesan@gmail.com)
+
 🔗 [LinkedIn](https://www.linkedin.com/in/siddha-ganesan-45a612151/)
 
-📱(+64) 226804787
+📱(+64) 22 680 4787
 
-📧 [siddha.ganesan@gmail.com](mailto:siddha.ganesan@gmail.com)
+📟 [Github](http://github.com/jarden-sid)
 
 ---
 
@@ -18,13 +20,13 @@
 
 Jarden Securities Limited. *Jan 2020 - Present.*
 
-In my role I am involved in delivering strategic solutions using micro-service architecture to both external clients and internal business units. Leveraging AWS services such as Lambda, Event Bus, and S3 to deliver solutions for front office trading, portfolio management, and investment services in the financial services sector.
+In my role I am involved in designing, developing, and maintaining domain centric micro-services. Leveraging AWS services such as Lambda, DynamoDB, and S3 to deliver solutions and features continuously. As part of the Runtime Barbarians and Team UN scrum teams delivered micro-services for tax reporting, portfolio management, and compliance monitoring.
 
 ### Wealth Management Intern
 
 Jarden Securities Limited. *Jan 2019 - Jan 2020.*
 
-Involved as part of the Private Wealth Research team, designing and developing tools to assist financial advisers. Successfully developed and deployed five tools presently, implemented using Excel and VBA.
+Involved as part of the Private Wealth Research team, designing and developing tools to assist financial advisers. Successfully developed and deployed five tools presently, implemented using Excel, VBA, and PowerQuery. Conducted analysis on client behaviours and trading using R  to build an understanding of how client segments behave for AML purposes.
 
 ### Laborer
 
@@ -38,17 +40,11 @@ Inspiration Education. *Sep 2017 - Dec 2019.*
 
 As an Education consultant I provide one-on-one tutoring and workshops to students. Subjects included; NCEA Level 3 Mathematics, NCEA Level 3 Statistics, NCEA Level 2 and 3 Physics, and IB Physics SL.
 
-### Lead Instructor
-
-Mokurai Dojo. *Feb 2012 - Oct 2016.*
-
-My responsibilities as lead instructor required me to manage classes of up to 30 students, assess their progress and prepare them for grading, and assess risk when training.
-
 ---
 
 # Education
 
-## **Bachelor's of Science. Actuarial Science and Finance**
+## **Bachelor’s of Science. Actuarial Science and Finance**
 
 Victoria University of Wellington 2016 - 2019. *GPA 6.0*
 
@@ -56,17 +52,17 @@ Victoria University of Wellington 2016 - 2019. *GPA 6.0*
 
 # Awards
 
-### VUWBIC Stock Valuation Competition
-
-Winner. *Jul 2019*
-
-As part of a team of 4, valued and provided investment recommendation on WHS.NZX. We were assessed on the complexity of our valuation model and the depth of our analysis of the business.
-
 ### National Stock Valuation Competition
 
 Winner. *Sep 2019*
 
-Competed against other New Zealand Universities in building a financial model to value and provided investment recommendation on SPK.NZX.
+Competed against other New Zealand University teams in building a financial model to value the company and provided an investment recommendation for SPK.NZX.
+
+### VUWBIC Stock Valuation Competition
+
+Winner. *Jul 2019*
+
+As part of a team of 4, valued and provided investment recommendations on WHS.NZX. We were assessed on the complexity of our valuation model and the depth of our analysis of the business.
 
 ### CFA Institute Equity Research Competition
 
