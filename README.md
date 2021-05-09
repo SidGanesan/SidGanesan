@@ -1,8 +1,10 @@
 # Siddha Ganesan
 
+
 [![Email](https://img.shields.io/badge/Contact-siddha.ganesan@gmail.com-informational?style=for-the-badge&logo=gmail&logoColor=white&color=darkgreen)](mailto:siddha.ganesan@gmail.cm)
 [![LinkedIn](https://img.shields.io/badge/Contact-Siddha%20Ganesan-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=darkgreen)](https://www.linkedin.com/in/siddha-ganesan-45a612151/)
-[![Github](https://img.shields.io/badge/Contact-Jarden%20Sid-informational?style=for-the-badge&logo=github&logoColor=white&color=darkgreen)](http://github.com/jarden-sid)
+[![CV](https://img.shields.io/badge/Contact-PDF%20Version-informational?style=for-the-badge&logo=notion&logoColor=white&color=darkgreen)](/pdfs/Siddha_Ganesan.pdf)
+
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-Typescript-informational?style=for-the-badge&logo=typescript&logoColor=white&color=blue)
@@ -87,3 +89,5 @@ Responsible for planning and hosting Academic and Welfare events for the second 
 **Victoria University Commerce Students Society** | Dec 2018 - Jun 2019
 
 Responsible for interfacing with students and faculty for the School of Economics and Finance at Victoria Business School. Included planning events and workshops for students.
+
+[PDF Version](/pdfs/Siddha_Ganesan.pdf)
