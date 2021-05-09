@@ -16,6 +16,7 @@
 ![](https://img.shields.io/badge/Tools-DynamoDB-informational?style=flat&logo=amazon-dynamodb&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/Tools-S3-informational?style=flat&logo=amazon-s3&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/Tools-GraphQL-informational?style=flat&logo=graphql&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/Tools-MSSQL-informational?style=flat&logo=microsoft-sql-server&logoColor=white&color=yellow)
 
 An Actuarial Science and Finance graduate turned Developer, exploring micro-service architecture, AWS Lambda, Python, Typescript, and Node.js. Interested in applying modern architecture and Domain Driven Design to portfolio management, and investment services. Dually passionate about data and analytics to develop better software and draw insights to make better financial decisions.
@@ -49,7 +50,7 @@ I provided one-on-one tutoring and workshops to students. Subjects included; NCE
 
 ## Education
 
-### **Bachelor’s of Science. Actuarial Science and Finance**
+### **Bachelor of Science. Actuarial Science and Finance**
 
 Victoria University of Wellington | 2016 - 2019 | *GPA 6.0 | WAM: 77.6*
 
@@ -62,19 +63,19 @@ Awards
 
 **Winner** | *Sep 2019.*
 
-Competed against New Zealand University teams in building a 5-year forecast model to value and provided an investment recommendation for SPK. Analysis focused on the growth of SPK's growing cloud consulting and infrastructure business.
+Competed against New Zealand University teams in building a 3 sheet DCF and comparables model to value and provided an investment recommendation for SPK. Analysis focused on the growth of SPK's growing cloud consulting and infrastructure business.
 
 ### VUWBIC Equity Valuation Competition
 
 **Winner** | *Jul 2019.*
 
-Valued and provided recommendations on WHS using a 5-year forecast model for each business in the group. We were assessed on the complexity of our valuation model and the depth of analysis.
+Valued and provided recommendations on WHS using a 3 sheet DCF and comparables model. We were assessed on the complexity of our valuation model and the depth of analysis.
 
 ### CFA Institute Equity Research Competition
 
 **Participant** | *Oct 2018.*
 
-Presented an investment recommendation on CVT, before a panel of judges and in a valuation report as part of the VUW team. Implemented a stochastic valuation model based on a monte carlo simulation of honey yields to project revenue.
+Presented an investment recommendation on CVT, before a panel of judges and in a valuation report as part of the VUW team. Implemented a stochastic valuation model based on a monte carlo simulation of honey yields to project revenue in a 3 sheet DCF.
 
 
 Leadership
