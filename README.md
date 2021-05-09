@@ -1,20 +1,22 @@
 # Siddha Ganesan
 
 
-[![Email](https://img.shields.io/badge/Contact-siddha.ganesan@gmail.com-informational?style=for-the-badge&logo=gmail&logoColor=white&color=darkgreen)](mailto:siddha.ganesan@gmail.cm)
-[![LinkedIn](https://img.shields.io/badge/Contact-Siddha%20Ganesan-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=darkgreen)](https://www.linkedin.com/in/siddha-ganesan-45a612151/)
-[![CV](https://img.shields.io/badge/Contact-PDF%20Version-informational?style=for-the-badge&logo=notion&logoColor=white&color=darkgreen)](/pdfs/Siddha_Ganesan.pdf)
+[![CV](https://img.shields.io/badge/CV-PDF%20Version-informational?style=flat&logo=notion&logoColor=white&color=white)](/pdfs/Siddha_Ganesan.pdf)
+[![Email](https://img.shields.io/badge/Contact-siddha.ganesan@gmail.com-informational?style=flat&logo=gmail&logoColor=white&color=darkgreen)](mailto:siddha.ganesan@gmail.cm)
+[![LinkedIn](https://img.shields.io/badge/Contact-Siddha%20Ganesan-informational?style=flat&logo=linkedin&logoColor=white&color=darkgreen)](https://www.linkedin.com/in/siddha-ganesan-45a612151/)
 
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-TS%20Node-informational?style=flat&logo=ts-node&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-Clojure-informational?style=flat&logo=clojure&logoColor=white&color=blue)
 
-![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-Typescript-informational?style=for-the-badge&logo=typescript&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-TS%20Node-informational?style=for-the-badge&logo=ts-node&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-Clojure-informational?style=for-the-badge&logo=clojure&logoColor=white&color=blue)
-
-
-![](https://img.shields.io/badge/Tools-AWS%20Lambda-informational?style=for-the-badge&logo=amazon-aws&logoColor=white&color=orange)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=for-the-badge&logo=postgresql&logoColor=white&color=orange)
-![](https://img.shields.io/badge/Tools-MSSQL-informational?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Tools-AWS%20Lambda-informational?style=flat&logo=amazon-aws&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/Tools-Flask-informational?style=flat&logo=flask&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/Tools-DynamoDB-informational?style=flat&logo=amazon-dynamodb&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/Tools-S3-informational?style=flat&logo=amazon-s3&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/Tools-MSSQL-informational?style=flat&logo=microsoft-sql-server&logoColor=white&color=yellow)
 
 An Actuarial Science and Finance graduate turned Developer, exploring micro-service architecture, AWS Lambda, Python, Typescript, and Node.js. Interested in applying modern architecture and Domain Driven Design to portfolio management, and investment services. Dually passionate about data and analytics to develop better software and draw insights to make better financial decisions.
 
