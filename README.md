@@ -1,18 +1,23 @@
 # Siddha Ganesan
 
-## Contact
-![](https://img.shields.io/badge/Email-siddha.ganesan@gmail.com-informational?style=flat&logo=gmail&logoColor=white&color=green)
-![](https://img.shields.io/badge/Mobile-0226804787-informational?style=flat&logoColor=white&color=green)
+[![Email](https://img.shields.io/badge/Contact-siddha.ganesan@gmail.com-informational?style=for-the-badge&logo=gmail&logoColor=white&color=darkgreen)](mailto:siddha.ganesan@gmail.cm)
+[![LinkedIn](https://img.shields.io/badge/Contact-Siddha%20Ganesan-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=darkgreen)](https://www.linkedin.com/in/siddha-ganesan-45a612151/)
+[![Github](https://img.shields.io/badge/Contact-Jarden%20Sid-informational?style=for-the-badge&logo=github&logoColor=white&color=darkgreen)](http://github.com/jarden-sid)
 
-[LinkedIn](https://www.linkedin.com/in/siddha-ganesan-45a612151/) | [Github](http://github.com/jarden-sid)
+![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-Typescript-informational?style=for-the-badge&logo=typescript&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-TS%20Node-informational?style=for-the-badge&logo=ts-node&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-Clojure-informational?style=for-the-badge&logo=clojure&logoColor=white&color=blue)
 
-## Personal Statement
+
+![](https://img.shields.io/badge/Tools-AWS%20Lambda-informational?style=for-the-badge&logo=amazon-aws&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=for-the-badge&logo=postgresql&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Tools-MSSQL-informational?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&color=orange)
 
 An Actuarial Science and Finance graduate turned Developer, exploring micro-service architecture, AWS Lambda, Python, Typescript, and Node.js. Interested in applying modern architecture and Domain Driven Design to portfolio management, and investment services. Dually passionate about data and analytics to develop better software and draw insights to make better financial decisions.
 
+Experience
 ---
-
-## Work Experience
 
 ### Junior Developer
 
@@ -38,8 +43,6 @@ Labouring on commercial construction sites for construction site management comp
 
 I provided one-on-one tutoring and workshops to students. Subjects included; NCEA Level 3 Mathematics, NCEA Level 3 Statistics, NCEA Level 2 and 3 Physics, and IB Physics SL.
 
----
-
 ## Education
 
 ### **Bachelor’s of Science. Actuarial Science and Finance**
@@ -48,20 +51,8 @@ Victoria University of Wellington | 2016 - 2019 | *GPA 6.0 | WAM: 77.6*
 
 Study involved statistical modelling for generic sciences and financial systems, actuarial products, and financial theory. Primarily focused on stochastic process and modelling of financial and actuarial products. Statistical papers focused multivariate analysis and linear modelling.
 
+Awards
 ---
-## Tools & Technology
-
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
-![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=3178C6)
-![](https://img.shields.io/badge/Code-TSNode-informational?style=flat&logo=ts-node&logoColor=white&color=3178C6)
-![](https://img.shields.io/badge/Code-Clojure-informational?style=flat&logo=clojure&logoColor=white&color=5881D8)
-![](https://img.shields.io/badge/Tools-Lambda-informational?style=flat&logo=amazon-aws&logoColor=white&color=232F3E)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=336791)
-![](https://img.shields.io/badge/Tools-MSSQL-informational?style=flat&logo=microsoft-sql-server&logoColor=white&color=CC2927)
-
----
-
-## Awards
 
 ### National Equity Valuation Competition
 
@@ -81,9 +72,9 @@ Valued and provided recommendations on WHS using a 5-year forecast model for eac
 
 Presented an investment recommendation on CVT, before a panel of judges and in a valuation report as part of the VUW team. Implemented a stochastic valuation model based on a monte carlo simulation of honey yields to project revenue.
 
----
 
-## Leadership
+Leadership
+---
 
 ### Academic and Welfare Vice President
 
