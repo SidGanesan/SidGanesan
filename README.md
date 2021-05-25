@@ -14,17 +14,20 @@ Dually passionate about data and analytics to develop better software and draw i
 Experience
 ---
 
-### Junior Developer
+### Developer - Wealth Tribe
 
 **Jarden Securities Limited** | *Jan 2020 - Present.*
 
-In my role I am involved in designing, developing, and maintaining domain centric micro-services. As part of the Runtime Barbarians and Team UN scrum teams delivered micro-services for tax reporting, portfolio management, and compliance monitoring. Working as a back end developer implementing AWS Lambdas and traditional kubernetes micro services with both REST and GQL interfaces.
+In my role I am involved in designing, developing, and maintaining domain centric micro-services. 
+As part of the Wealth Tribe we delivered and continue to maintain tax reporting, portfolio management, order and trade services, bulk ordering, and compliance monitoring. 
+Working as a back end developer implementing AWS Lambdas and traditional kubernetes micro services with both REST and GQL interfaces.
 
 ### Wealth Management Intern
 
 **Jarden Securities Limited** | *Jan 2019 - Jan 2020.*
 
-Involved as part of the Private Wealth Research team, designing and developing data and analysis tools to assist financial advisers. Developed tools, implemented using Excel, VBA, and PowerQuery. Conducted analysis on client behaviours and trading using R  to build an understanding of how client segments behave for AML purposes.
+Involved as part of the Private Wealth Research team, I was in charge of designing and developing data and analysis tools to assist financial advisers. 
+Developed tools, implemented using Excel, VBA, and PowerQuery. Additionally, I conducted analysis on client behaviours and trading using R to build an understanding of how client segments behave for AML purposes.
 
 ### Laborer
 
@@ -71,19 +74,24 @@ Awards
 
 **Winner** | *Sep 2019.*
 
-Competed against New Zealand University teams in building a 3 sheet DCF and comparables model to value and provided an investment recommendation for SPK. Analysis focused on the growth of SPK's growing cloud consulting and infrastructure business.
+Competed against New Zealand University teams in building a 3 sheet DCF and comparables model to value and provided an investment recommendation for SPK. 
+I was responsible for building the 3 sheet model, using the research done by my teammates to inform my parameters.
+Analysis focused on the growth of SPK's growing cloud consulting and infrastructure business.
 
 ### VUWBIC Equity Valuation Competition
 
 **Winner** | *Jul 2019.*
 
-Valued and provided recommendations on WHS using a 3 sheet DCF and comparables model. We were assessed on the complexity of our valuation model and the depth of analysis.
+Valued and provided recommendations on WHS using a 3 sheet DCF and comparables model. 
+I was responsible for building the 3 sheet model, using the research done by my teammates to inform my parameters.
+We were assessed on the complexity of our valuation model and the depth of analysis.
 
 ### CFA Institute Equity Research Competition
 
 **Participant** | *Oct 2018.*
 
-Presented an investment recommendation on CVT, before a panel of judges and in a valuation report as part of the VUW team. Implemented a stochastic valuation model based on a monte carlo simulation of honey yields to project revenue in a 3 sheet DCF.
+Presented an investment recommendation on CVT, before a panel of judges and in a valuation report as part of the VUW team.
+I was responsible for implementing a stochastic valuation model based on a monte carlo simulation of honey yields to project revenue in a 3 sheet DCF.
 
 
 Leadership
@@ -93,12 +101,12 @@ Leadership
 
 **Victoria University Commerce Students Society** | Jun 2019 - Dec 2019
 
-Responsible for planning and hosting Academic and Welfare events for the second large club at Victoria University. These include Welfare day in partnership with The Mental Health Foundation and other Sponsors, and study sessions.
+Planned and hosted Academic and Welfare events for the second large club at Victoria University. These include Welfare day in partnership with The Mental Health Foundation and other Sponsors, and study sessions.
 
 ### School of Economics and Finance Representative
 
 **Victoria University Commerce Students Society** | Dec 2018 - Jun 2019
 
-Responsible for interfacing with students and faculty for the School of Economics and Finance at Victoria Business School. Included planning events and workshops for students.
+Interfaced with students and faculty for the School of Economics and Finance at Victoria Business School. Included planning events and workshops for students.
 
 [PDF Version](/pdfs/Siddha_Ganesan.pdf) | [Cover Letter](COVERLETTER.md)
