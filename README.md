@@ -3,12 +3,11 @@
 
 [![CV](https://img.shields.io/badge/PDF_Version-PDF%20Version?style=for-the-badge&logo=notion&logoColor=white&color=grey)](/pdfs/Siddha_Ganesan.pdf)
 [![CV](https://img.shields.io/badge/Cover_Letter-PDF%20Version?style=for-the-badge&logo=notion&logoColor=white&color=grey)](COVERLETTER.md)
-
 [![Email](https://img.shields.io/badge/Siddha.Ganesan@gmail.com-informational?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335)](mailto:siddha.ganesan@gmail.cm)
 [![LinkedIn](https://img.shields.io/badge/Siddha%20Ganesan-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2)](https://www.linkedin.com/in/siddha-ganesan-45a612151/)
 
-An Actuarial Science and Finance graduate turned Developer, exploring micro-service architecture, AWS Lambda, Python, Typescript, and Node.js. 
-Interested in applying modern architecture and Domain Driven Design to portfolio management, and investment services. 
+An Actuarial Science and Finance graduate turned Developer, exploring micro-service architecture, AWS Lambda, Python, Typescript, and Node.ts. 
+Interested in applying modern architecture and Domain Driven Design to portfolio management, investment services, and financial decision making. 
 Dually passionate about data and analytics to develop better software and draw insights to make better financial decisions.
 
 Experience
@@ -20,14 +19,14 @@ Experience
 
 In my role I am involved in designing, developing, and maintaining domain centric micro-services. 
 As part of the Wealth Tribe we delivered and continue to maintain tax reporting, portfolio management, order and trade services, bulk ordering, and compliance monitoring. 
-Working as a back end developer implementing AWS Lambdas and traditional kubernetes micro services with both REST and GQL interfaces.
+My role is as a back end developer implementing AWS Lambdas and traditional kubernetes micro services with both REST and GQL interfaces.
 
 ### Wealth Management Intern
 
 **Jarden Securities Limited** | *Jan 2019 - Jan 2020.*
 
-Involved as part of the Private Wealth Research team, I was in charge of designing and developing data and analysis tools to assist financial advisers. 
-Developed tools, implemented using Excel, VBA, and PowerQuery. Additionally, I conducted analysis on client behaviours and trading using R to build an understanding of how client segments behave for AML purposes.
+As part of the Private Wealth Research team, I was in charge of designing and developing data and analysis tools to assist financial advisers manage their client's portfolios. 
+These were implemented with a combination of Excel, VBA, and PowerQuery. Additionally, I conducted analysis on client behaviours and trading using R to build an understanding of how client segments behave for AML purposes.
 
 ### Laborer
 
@@ -65,7 +64,9 @@ Education
 
 Victoria University of Wellington | 2016 - 2019 | *GPA 6.0 | WAM: 77.6*
 
-Study involved statistical modelling for generic sciences and financial systems, actuarial products, and financial theory. Primarily focused on stochastic process and modelling of financial and actuarial products. Statistical papers focused multivariate analysis and linear modelling.
+Study involved statistical modelling for generic sciences and financial systems, actuarial products, and financial theory. 
+Primarily focused on stochastic process and modelling of financial and actuarial products. 
+Statistical papers focused multivariate analysis and linear modelling.
 
 Awards
 ---
