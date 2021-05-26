@@ -13,7 +13,7 @@ My team leaned on my analytical background and domain knowledge often to detail 
 
 After pivoting from Actuarial Science to be a developer I fostered a passion for functional programming, treating my code like algebraic equations with specific inputs, piping and composing functions.
 It came much more naturally to me than the OOP I had learned at university, I could imagine the solution in my mind, visualising my code, step by step, before implementing it.
-I combined my passion for FP and investing in my library [investment-simulator](https://github.com/SidGanesan/investment-simulator), implemented Modern Portfolio Theory and Monte Carlo simulations to optimise portfolios of ETFs to diversify risk, improve returns programmatically and visualise the effect of different allocations.
+I combined my passion for FP and investing in my library [investment-simulator](https://github.com/SidGanesan/investment-simulator), implementing Modern Portfolio Theory and Monte Carlo simulations to optimise portfolios of ETFs to diversify risk, improve returns programmatically and visualise the effect of different allocations.
 
 Lastly I am a big proponent for mental health, especially for students, having organised the first ever welfare day in conjunction with the mental health foundation, at Victoria University’s’ Pipitea Campus as part of my duties at the Victoria University of Wellington Commerce Students Society. 
 
@@ -22,3 +22,5 @@ Thank you very much for your time, I look forward to hearing from you in the nea
 Siddha Ishmael Ganesan
 
 Enclosure: CV
+
+[PDF Version](pdfs/COVERLETTER.pdf)
