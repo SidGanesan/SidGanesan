@@ -1,0 +1,19 @@
+[user]
+  email = siddha.ganesan@gmail.com
+  name = Sid Ganesan
+[core]
+  editor = vim
+[push]
+  default = current
+[pull]
+  rebase = true
+[log]
+  date = local
+[alias]
+  st = status
+  co = checkout
+  sw = switch
+    swc = switch -c
+  pl = pull
+  ph = push
+  dm = !git diff `git merge-base --fork-point main`
