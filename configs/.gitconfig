@@ -17,3 +17,8 @@
   pl = pull
   ph = push
   dm = !git diff `git merge-base --fork-point main`
+[pager]
+  branch = no
+[delta]
+  line-numbers = true
+    side-by-side = true
