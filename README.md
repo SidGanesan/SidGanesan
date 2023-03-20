@@ -1,44 +1,40 @@
 # Siddha Ganesan
 
 
-[![CV](https://img.shields.io/badge/PDF_Version-PDF%20Version?style=for-the-badge&logo=notion&logoColor=white&color=grey)](/pdfs/Siddha_Ganesan.pdf)
-[![CV](https://img.shields.io/badge/Cover_Letter-PDF%20Version?style=for-the-badge&logo=notion&logoColor=white&color=grey)](COVERLETTER.md)
 [![Email](https://img.shields.io/badge/Siddha.Ganesan@gmail.com-informational?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335)](mailto:siddha.ganesan@gmail.cm)
 [![LinkedIn](https://img.shields.io/badge/Siddha%20Ganesan-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2)](https://www.linkedin.com/in/siddha-ganesan-45a612151/)
 
-An Actuarial Science and Finance graduate turned Developer, exploring micro-service architecture, AWS Lambda, Python, Typescript, and Node.ts. 
-Interested in applying modern architecture and Domain Driven Design to portfolio management, investment services, and financial decision making. 
-Dually passionate about data and analytics to develop better software and draw insights to make better financial decisions.
+Graduate in Actuarial Science and Finance with experience in software development for wealth management and financial services. Bringing and unique
+blend of technical and financial expertise to new opportunities. Worked on developing financial tools, analyzing data, and handling financial transactions,
+controls, and reconciliations. Recently relocated to London from Wellington NZ to continue career growth in finance- related software development.
 
 Experience
 ---
 
+### Intermediate Developer - KiwiSaver
+
+**Sharesies** | *Aug 2021 - Feb 2023.*
+
+- Developed robust and scalable REST APIs and services to be deployed to AWS for 500,000 using Python, Flask, and PostgreSQL.
+
+- Utilised expertise in financial transactions, controls, and reconciliations to develop compliant and robust systems for superannuation and managed funds business.
+
+- Built integrations with third-party custodian for the KiwiSaver and managed funds business and conducted data modeling, performance and E-mail integration testing.
+
+
 ### Developer - Wealth Tribe
 
-**Jarden Securities Limited** | *Jan 2020 - Present.*
+**Jarden Securities Limited** | *Jan 2020 - Aug 2021.*
 
-In my role I am involved in designing, developing, and maintaining domain centric micro-services. 
-As part of the Wealth Tribe we delivered and continue to maintain tax reporting, portfolio management, order and trade services, bulk ordering, and compliance monitoring. 
-My role is as a back end developer implementing AWS Lambdas and traditional kubernetes micro services with both REST and GQL interfaces.
+- Collaborated on stages of systems development lifecycle from requirement gathering to releases for teams of financial advisers managing 20,000 clients to improve efficiency through in-house CMS, portfolio management software, tax reporting, and bulk ordering.
+
+- Implemented AWS Lambdas, traditional Kubernetes micro-services with both REST and GraphQL interfaces using; Python, Typescript, and Node.
 
 ### Wealth Management Intern
 
 **Jarden Securities Limited** | *Jan 2019 - Jan 2020.*
 
-As part of the Private Wealth Research team, I was in charge of designing and developing data and analysis tools to assist financial advisers manage their client's portfolios. 
-These were implemented with a combination of Excel, VBA, and PowerQuery. Additionally, I conducted analysis on client behaviours and trading using R to build an understanding of how client segments behave for AML purposes.
-
-### Laborer
-
-**HAYS** | *Dec 2016 - Mar 2018.*
-
-Labouring on commercial construction sites for construction site management companies. Tasks involved; carpentry, steel works, and concrete laying on sites ranging between 8 and 25 million in value.
-
-### Education Consultant
-
-**Inspiration Education** | *Sep 2017 - Dec 2019.*
-
-I provided one-on-one tutoring and workshops to students. Subjects included; NCEA Level 3 Mathematics, NCEA Level 3 Statistics, NCEA Level 2 and 3 Physics, and IB Physics SL.
+- Developed portfolio management tooling using VBA, PowerQuery, and MS Excel for financial advisors managing portfolios between 1 and 100 million dollars.
 
 Technologies
 ---
@@ -109,5 +105,3 @@ Planned and hosted Academic and Welfare events for the second large club at Vict
 **Victoria University Commerce Students Society** | Dec 2018 - Jun 2019
 
 Interfaced with students and faculty for the School of Economics and Finance at Victoria Business School. Included planning events and workshops for students.
-
-[PDF Version](/pdfs/Siddha_Ganesan.pdf) | [Cover Letter](COVERLETTER.md)
