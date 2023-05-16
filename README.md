@@ -1,6 +1,5 @@
 # Siddha Ganesan
 
-
 [![Email](https://img.shields.io/badge/Siddha.Ganesan@gmail.com-informational?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335)](mailto:siddha.ganesan@gmail.cm)
 [![LinkedIn](https://img.shields.io/badge/Siddha%20Ganesan-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2)](https://www.linkedin.com/in/siddha-ganesan-45a612151/)
 
@@ -43,7 +42,6 @@ Technologies
 ![](https://img.shields.io/badge/Pandas-informational?style=for-the-badge&logo=pandas&logoColor=white&color=150458)
 ![](https://img.shields.io/badge/Typescript-informational?style=for-the-badge&logo=typescript&logoColor=white&color=3178C6)
 ![](https://img.shields.io/badge/TS%20Node-informational?style=for-the-badge&logo=ts-node&logoColor=white&color=3178C6)
-![](https://img.shields.io/badge/Clojure-informational?style=for-the-badge&logo=clojure&logoColor=white&color=5881D8)
 ![](https://img.shields.io/badge/AWS%20Lambda-informational?style=for-the-badge&logo=amazon-aws&logoColor=white&color=232F3E)
 ![](https://img.shields.io/badge/Flask-informational?style=for-the-badge&logo=flask&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/AWS_DynamoDB-informational?style=for-the-badge&logo=amazon-dynamodb&logoColor=white&color=4053D6)
